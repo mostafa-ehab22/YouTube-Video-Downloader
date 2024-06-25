@@ -13,11 +13,11 @@ print("Views:","{:,}".format(yt.views))
 
 
 # Getting Video Resolution
-resolution_480 = yt.streams.filter(res="480p",progressive=True).first()
+resolution = yt.streams.filter(res="480p",progressive=True).first()
 
 # Checking if wanted resolution available
-if resolution_480:
-    resolution_480.download("D:\Mostafa\YT Videos")
+if resolution:
+    resolution.download("D:\Mostafa\YT Videos")
     print("Download Successful!")
 else:
     print("Stream not availabe")
