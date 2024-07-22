@@ -12,5 +12,5 @@ Python script automating the process of downloading YouTube videos. The script u
 ## Example
 
 ```
-python YTdownloader.py https://www.youtube.com/watch?v=dQw4w9WgXcQ
+python YTDownloader.py https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ```
