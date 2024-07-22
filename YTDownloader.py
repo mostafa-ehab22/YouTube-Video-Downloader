@@ -20,6 +20,6 @@ if user_input == 'y':
     # Checking if wanted resolution available
     if resolution:
         resolution.download("D:\Mostafa\YT Videos")
-        print("Download Successfull!")
+        print("Download Successful!")
     else:
-        print("Video Resolution not availabe")
+        print("Video Resolution not available")
