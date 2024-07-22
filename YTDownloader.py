@@ -8,8 +8,8 @@ Running program: python YTDownloader.py "LINK"
 link = argv[1]
 yt = YouTube(link)
 
-print("Title:",yt.title)
-print("Views:","{:,}".format(yt.views))
+print(f"Title: {yt.title}")
+print(f"Views: {yt.views:,}")
 
 user_input = input("Do you want to download video? (y/n) ").strip().lower()
 
