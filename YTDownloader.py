@@ -33,6 +33,7 @@ def main():
                 print("Download Successful!")
             else:
                 print("Video Resolution not available")
+
         except Exception as e:
             print(f"Couldn't download video: {e}")
 
