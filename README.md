@@ -2,9 +2,9 @@
 
 A simple, reliable YouTube video downloader built with Python using `yt-dlp`. Download your favorite videos in various quality options with an easy-to-use command-line interface.
 
-## ✨ Features
+## 🚀 Features
 
-- 🚀 **Fast & Reliable**: Built with `yt-dlp` for maximum compatibility
+- ⚡ **Fast & Reliable**: Built with `yt-dlp` for maximum compatibility
 - 🎯 **Quality Selection**: Choose from available resolutions (360p, 720p, 1080p, etc.)
 - 📊 **Video Information**: Display title, uploader, duration, and view count before downloading
 - 📁 **Custom Output**: Automatically organizes downloads in a designated folder
