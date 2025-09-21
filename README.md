@@ -138,7 +138,8 @@ pip install --upgrade yt-dlp
 ```
 
 ## 🆚 Why yt-dlp over pytube?
-
+<div align="center">
+  
 | Feature | yt-dlp | pytube |
 |---------|---------|---------|
 | 🔄 Updates | Regular | Infrequent |
@@ -147,6 +148,7 @@ pip install --upgrade yt-dlp
 | 🐛 Bug Fixes | Fast | Slow |
 | 📱 Maintenance | Active | Limited |
 
+</div>
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
