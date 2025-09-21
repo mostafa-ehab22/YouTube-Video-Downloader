@@ -104,12 +104,12 @@ download_path = "YOUR/CUSTOM/PATH"
 - **Numbers (1, 2, 3, etc.)**: Select specific quality from the list
 - **"best"**: Automatically choose the highest quality (up to 1080p)
 
-## 📂 Project Structure
-
+📂 Project Structure
 ```
 📂 youtube-downloader/
 ├── ytdownloader.py          # Main script
-└── README.md                # This file
+├── README.md               # This file
+└── LICENSE                 # MIT License
 ```
 
 ## 🔧 Troubleshooting
