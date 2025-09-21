@@ -107,9 +107,9 @@ download_path = "YOUR/CUSTOM/PATH"
 📂 Project Structure
 ```
 📂 youtube-downloader/
-├── ytdownloader.py          # Main script
-├── README.md               # This file
-└── LICENSE                 # MIT License
+├── ytdownloader.py          ⬅️ Main script
+├── README.md                ⬅️ This file
+└── LICENSE                  ⬅️ MIT License
 ```
 
 ## 🔧 Troubleshooting
