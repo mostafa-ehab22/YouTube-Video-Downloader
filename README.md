@@ -107,9 +107,9 @@ download_path = "YOUR/CUSTOM/PATH"
 ## 📂 Project Structure
 
 ```
-youtube-downloader/
+📂 youtube-downloader/
 ├── ytdownloader.py          # Main script
-└── README.md               # This file
+└── README.md                # This file
 ```
 
 ## 🔧 Troubleshooting
@@ -162,9 +162,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to the [yt-dlp](https://github.com/yt-dlp/yt-dlp) developers for creating an amazing tool
 - Inspired by the need for a reliable YouTube downloader
-
----
-
-⭐ **Star this repository if it helped you!** ⭐
-
-Made with ❤️ and Python 🐍
