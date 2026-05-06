@@ -52,10 +52,10 @@ python ytdownloader.py "https://youtu.be/dQw4w9WgXcQ"
 
 ### Interactive Process
 
-1. **🔍 Video Information**: The script will fetch and display video details
-2. **✅ Confirmation**: Confirm if you want to download the video
-3. **📋 Format Selection**: Choose from available quality options
-4. **⬇️ Download**: The video downloads to your specified directory
+1. **Video Information**: The script will fetch and display video details
+2. **Confirmation**: Confirm if you want to download the video
+3. **Format Selection**: Choose from available quality options
+4. **Download**: The video downloads to your specified directory
 
 ### Sample Output
 
