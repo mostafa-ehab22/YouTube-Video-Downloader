@@ -15,7 +15,6 @@ A simple, reliable YouTube video downloader built with Python using `yt-dlp`. Do
 ## 🛠️ Installation
 
 ### Prerequisites
-
 - Python 3.6 or higher
 - pip package manager
 
@@ -106,9 +105,8 @@ download_path = "YOUR/CUSTOM/PATH"
 - **"best"**: Automatically choose the highest quality (up to 1080p)
 
 ## 📂 Project Structure
-
 ```
-youtube-downloader/
+📂 youtube-downloader/
 ├── ytdownloader.py          ⬅️ Main script
 ├── README.md                ⬅️ This file
 └── LICENSE                  ⬅️ MIT License
@@ -119,18 +117,15 @@ youtube-downloader/
 ### Common Issues
 
 **❌ "Failed to extract video info"**
-
 - Check if the URL is valid and accessible
 - Ensure the video is not private or region-blocked
 - Update yt-dlp: `pip install --upgrade yt-dlp`
 
 **❌ "No suitable formats found"**
-
 - The video might be a live stream or have restricted formats
 - Try a different video URL
 
 **❌ Permission errors**
-
 - Ensure you have write permissions to the download directory
 - Try running as administrator (Windows) or with sudo (Linux/Mac)
 
@@ -143,16 +138,16 @@ pip install --upgrade yt-dlp
 ```
 
 ## 🆚 Why yt-dlp over pytube?
-
 <div align="center">
 
-|   📊 **Feature**    | 🏆 **yt-dlp** | 📉 **pytube** |
-| :-----------------: | :-----------: | :-----------: |
-|   🔄 **Updates**    |    Regular    |  Infrequent   |
-|  🛡️ **Stability**   |     High      |      Low      |
-| 🌐 **Site Support** |  1000+ sites  | YouTube only  |
-|  🐛 **Bug Fixes**   |     Fast      |     Slow      |
-| 📱 **Maintenance**  |    Active     |    Limited    |
+
+| 📊 **Feature** | 🏆 **yt-dlp** | 📉 **pytube** |
+|:---:|:---:|:---:|
+| 🔄 **Updates** |  Regular |  Infrequent |
+| 🛡️ **Stability** |  High |  Low |
+| 🌐 **Site Support** |  1000+ sites |  YouTube only |
+| 🐛 **Bug Fixes** |  Fast |  Slow |
+| 📱 **Maintenance** |  Active |  Limited |
 
 </div>
 
