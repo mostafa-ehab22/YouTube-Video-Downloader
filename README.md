@@ -143,11 +143,11 @@ pip install --upgrade yt-dlp
 
 | 📊 **Feature** | 🏆 **yt-dlp** | 📉 **pytube** |
 |:---:|:---:|:---:|
-| 🔄 **Updates** |  Regular |  Infrequent |
-| 🛡️ **Stability** |  High |  Low |
-| 🌐 **Site Support** |  1000+ sites |  YouTube only |
-| 🐛 **Bug Fixes** |  Fast |  Slow |
-| 📱 **Maintenance** |  Active |  Limited |
+| **Updates** |  Regular |  Infrequent |
+| **Stability** |  High |  Low |
+| **Site Support** |  1000+ sites |  YouTube only |
+| **Bug Fixes** |  Fast |  Slow |
+| **Maintenance** |  Active |  Limited |
 
 </div>
 
