@@ -4,13 +4,13 @@ A simple, reliable YouTube video downloader built with Python using `yt-dlp`. Do
 
 ## 🚀 Features
 
-- ⚡ **Fast & Reliable**: Built with `yt-dlp` for maximum compatibility
-- 🎯 **Quality Selection**: Choose from available resolutions (360p, 720p, 1080p, etc.)
-- 📊 **Video Information**: Display title, uploader, duration, and view count before downloading
-- 📁 **Custom Output**: Automatically organizes downloads in a designated folder
-- 🛡️ **Error Handling**: Robust error handling with helpful error messages
-- 🔄 **Format Detection**: Automatically detects and displays available video formats
-- 💾 **Size Preview**: Shows estimated file sizes for each quality option
+- **Fast & Reliable**: Built with `yt-dlp` for maximum compatibility
+- **Quality Selection**: Choose from available resolutions (360p, 720p, 1080p, etc.)
+- **Video Information**: Display title, uploader, duration, and view count before downloading
+- **Custom Output**: Automatically organizes downloads in a designated folder
+- **Error Handling**: Robust error handling with helpful error messages
+- **Format Detection**: Automatically detects and displays available video formats
+- **Size Preview**: Shows estimated file sizes for each quality option
 
 ## 🛠️ Installation
 
