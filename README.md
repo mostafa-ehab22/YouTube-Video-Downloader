@@ -1,4 +1,6 @@
 ## 🎯 Project Overview
+![Python](https://img.shields.io/badge/Python-darkblue.svg?logo=python)
+![yt-dlp](https://img.shields.io/badge/yt--dlp-CC0000?logo=youtube&logoColor=white)
 
 A lightweight YouTube video downloader built with Python and `yt-dlp`, designed for reliability and ease of use. Supports multiple resolutions (360p to 1080p), automatic format detection with size previews, and organized local output, all through a clean command-line interface.
 
