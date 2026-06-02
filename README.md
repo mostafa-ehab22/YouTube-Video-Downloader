@@ -38,7 +38,7 @@ cd youtube-downloader
 ### Basic Usage
 
 ```bash
-python ytdownloader.py "YOUTUBE_VIDEO_URL"
+python ytdownloader.py "<YOUTUBE_VIDEO_URL>"
 ```
 
 ### Examples
