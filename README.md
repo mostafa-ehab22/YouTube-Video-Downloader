@@ -1,6 +1,6 @@
-# 🎬 YouTube Video Downloader
+## 🎯 Project Overview
 
-A simple, reliable YouTube video downloader built with Python using `yt-dlp`. Download your favorite videos in various quality options with an easy-to-use command-line interface.
+A lightweight YouTube video downloader built with Python and `yt-dlp`, designed for reliability and ease of use. Supports multiple resolutions (360p to 1080p), automatic format detection with size previews, and organized local output, all through a clean command-line interface.
 
 ## 🚀 Features
 
@@ -151,10 +151,6 @@ pip install --upgrade yt-dlp
 
 </div>
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## ⚠️ Disclaimer
 
 - This tool is for educational purposes and personal use only
@@ -166,3 +162,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to the [yt-dlp](https://github.com/yt-dlp/yt-dlp) developers for creating an amazing tool
 - Inspired by the need for a reliable YouTube downloader
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
