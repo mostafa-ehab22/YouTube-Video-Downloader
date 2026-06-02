@@ -17,7 +17,7 @@ A lightweight YouTube video downloader built with Python and `yt-dlp`, designed 
 ## 🛠️ Installation
 
 ### Prerequisites
-- Python 3.6 or higher
+- Python 3.6+
 - pip package manager
 
 ### Install Dependencies
